@@ -220,7 +220,7 @@ SPDX-License-Identifier: Apache-2.0
     <string name="power_menu_screenshot_summary">Pulsación larga para captura de pantalla parcial</string>
     <string name="power_menu_airplane_title">Modo avión</string>
     <string name="power_menu_users_title">Selector de usuario</string>
-    <string name="power_menu_bug_report_title">Informe de errores</string>\
+    <string name="power_menu_bug_report_title">Informe de errores</string>
     <string name="power_menu_bug_report_devoptions_unavailable">Los informes de error están desactivados porque las opciones de desarrollador no están activadas.</string>
     <string name="power_menu_bug_report_unavailable_for_user">El informe de errores está deshabilitado para usuarios no principales.</string>
     <string name="power_menu_emergency_title">Emergencia</string>
